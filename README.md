@@ -15,4 +15,4 @@ libraries like scikit-learn.
 Data storage: Databases or data warehouses store customer data.
 
 
-Data visualization tools: Tools like Tableau or Power BI help visualize clusters and customer profiles.
+
