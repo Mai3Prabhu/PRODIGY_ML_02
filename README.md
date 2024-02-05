@@ -6,6 +6,7 @@ Objective: Divide customers into distinct groups (clusters) where customers with
 
 Technologies used:
 
-Programming languages: Python is common, with libraries like scikit-learn providing K-means implementation.
+Python 
+libraries like scikit-learn 
 Data storage: Databases or data warehouses store customer data.
 Data visualization tools: Tools like Tableau or Power BI help visualize clusters and customer profiles.
